@@ -1,0 +1,11 @@
+simple-webapp-ci-cd/
+├── .github/
+│   └── workflows/
+│       └── ci-cd.yml
+├── app/
+│   ├── Dockerfile
+│   ├── src/
+│   │   ├── app.py (or index.js, depending on the framework)
+│   │   └── requirements.txt (or package.json)
+├── Jenkinsfile
+└── README.md
