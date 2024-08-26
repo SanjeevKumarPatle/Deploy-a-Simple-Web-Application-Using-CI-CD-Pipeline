@@ -1,4 +1,4 @@
-# Deploy-a-Simple-Web-Application-Using-CI-CD-Pipeline
+Deploy-a-Simple-Web-Application-Using-CI-CD-Pipeline
 Objective: Automated deployment of a containerized web application using a CI/CD pipeline.
 Key Activities:
 Developed a simple web application and containerized it using Docker.
